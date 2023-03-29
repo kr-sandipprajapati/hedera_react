@@ -150,7 +150,7 @@ function App() {
               id="button-addon2"
               onClick={() => onDyGetter(changeVal)}
             >
-              Decrement
+              Call
             </Button>
           </InputGroup>
         </div>
